@@ -1,0 +1,22 @@
+1. Crypto testing page
+- fetch api to get the crypto currency data
+- adding pagination support
+- Sorting Functionality
+- Search Functionality
+- mark/unmark crypto as favourite
+- clicking on a given row , navigate to crypto details page
+
+
+2. favourite pages
+- Fetch all the favourite in crypto currency
+- Search functionality to search inside the fav. coins
+
+3. Crypto details page
+- listening the details of the given crypto
+- creating a chart of crypto prices vs the time  
+
+
+use charts.js library for charta
+
+
+ 
